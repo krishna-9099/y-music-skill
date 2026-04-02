@@ -1,0 +1,10 @@
+{
+    "name": "hello-world-skill",
+    "version": "1.0.0",
+    "description": "Minimal Alexa Hello World skill",
+    "main": "index.js",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "ask-sdk-core": "^2.14.0"
+    }
+}

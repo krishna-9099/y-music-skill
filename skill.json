@@ -1,0 +1,30 @@
+{
+    "manifest": {
+        "publishingInformation": {
+            "locales": {
+                "en-US": {
+                    "name": "Hello World Import",
+                    "summary": "Simple Hello World skill for import",
+                    "description": "A minimal Alexa-hosted sample skill that says Hello World.",
+                    "examplePhrases": [
+                        "Alexa, open hello world import",
+                        "hello",
+                        "help"
+                    ],
+                    "keywords": []
+                }
+            },
+            "isAvailableWorldwide": true,
+            "testingInstructions": "Open the skill and say hello.",
+            "distributionCountries": []
+        },
+        "apis": {
+            "custom": {
+                "endpoint": {
+                    "sourceDir": "lambda/custom"
+                }
+            }
+        },
+        "manifestVersion": "1.0"
+    }
+}
