@@ -2,7 +2,8 @@
     "manifest": {
         "publishingInformation": {
             "locales": {
-                "en-US": {
+                
+                "en-IN": {
                     "name": "Hello World Import",
                     "summary": "Simple Hello World skill for import",
                     "description": "A minimal Alexa-hosted sample skill that says Hello World.",
